@@ -6,4 +6,7 @@ A new Flutter project.
 
 For help getting started with Flutter, view our online
 [documentation](https://flutter.io/).
-# class_list
+
+## Purpose
+
+Enable schools, offices e.t.c to keep track of students, employees e.t.c and have summaries of their attendances.
